@@ -6,6 +6,7 @@ public class App02BasicspringTool {
 
 	public static void main(String[] args) {
 	//Launch a spring Context
+		//hi my change
 		
 		var context =
 				new AnnotationConfigApplicationContext(HelloWorldConfiguration.class);
